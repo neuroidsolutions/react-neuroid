@@ -1,8 +1,8 @@
 {
   "name": "react-neuroid",
   "version": "0.0.1",
-  "description": "Rinse, React, repeat. A React component library boilerplate.",
-  "main": "dist/rinse.js",
+  "description": "React-neuroid, React, repeat. A React component library boilerplate.",
+  "main": "dist/react-neuroid.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production",
@@ -21,7 +21,7 @@
     "components",
     "components"
   ],
-  "author": "Connor Wilson",
+  "author": "Midhun Mohanan",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/neuroidsolutions/react-neuroid/issues"
